@@ -1,0 +1,6 @@
+site_name: xscan-wiki
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
