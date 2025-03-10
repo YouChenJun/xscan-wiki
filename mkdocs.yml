@@ -4,3 +4,5 @@ theme:
   language: zh
   features:
     - navigation.tabs
+extra_javascript:
+  - javascripts/extra.js
